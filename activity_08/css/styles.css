@@ -1,0 +1,43 @@
+body
+{
+   background-color: #f5eceb;
+}
+#wrapper
+{
+    border: 1px solid #ccc;
+    background-color: #565a54;
+    min-height: 100%;
+    margin: 5px;
+}
+.header
+{
+    border: 1px solid #0c0c0c;
+    background-color: #000000;
+    height: 300px;
+}
+.main-navigation
+{
+    background-color: #222121;
+    height: 70px;
+    text-align:center;
+    color: #611907;
+    
+    
+}
+.main-navigation a
+{
+    text-align: center;
+    color: #dd3232;
+    text-decoration: line;
+    font-size: 28px;
+     
+				
+    
+
+}
+.main-navigation a:hover
+{
+    text-decoration: none;
+    color: aqua;
+    
+}
