@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>.:JavaScript 01:.</title>
+        <script>
+            alert("Welcome to 2nd page.");
+        </script>
+    </head>
+    <body>
+        <button onclick="window.location.href='javascript_05.html'">Go back to login page</button>
+    </body>
+</html>
